@@ -15,10 +15,10 @@ Programming-languages have come a long way since the days of Fortran; Lisp; and 
 
 While the output of Mangler isn't necessarily meant to be copy-pasted as-is into a project, it can be used as a starting-point to be minimally-modified before doing so.
 
-[^1]: *What makes software opinionated?* https://www.imkylelambert.com/articles/opinionated-software
+[^1]: *What makes software opinionated*? https://www.imkylelambert.com/articles/opinionated-software
 [^2]: This is a paraphrased quote but I've never been able to find its author again...
 [^3]: PEP 20 https://peps.python.org/pep-0020/
 [^4]: *Programming, scripting, and markup languages.* https://survey.stackoverflow.co/2023/#section-admired-and-desired-programming-scripting-and-markup-languages
 [^5]: *Coupling.* https://en.wikipedia.org/wiki/Coupling_(computer_programming)
 [^6]: *Boilerplate code.* https://en.wikipedia.org/wiki/Boilerplate_code
-[^7]: *Syntactic sugar*. https://en.wikipedia.org/wiki/Syntactic_sugar
+[^7]: *Syntactic Sugar: What is Syntactic Sugar in Computer Science*? https://www.lenovo.com/us/en/glossary/syntactic-sugar/
