@@ -96,4 +96,5 @@ function input(){
 export function setup(){
   VIEW.addEventListener('input',input)
   input()
+  VIEW.focus()
 }
